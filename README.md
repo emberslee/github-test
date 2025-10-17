@@ -1,2 +1,2 @@
 # github-test
-A personal rrepository for testing git and githut
+A personal repository for testing git and githut
